@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Treachery
+tagline:          'Ett narrativistiskt vampyrlajv'
+description:      'Ett narrativistiskt vampyrlajv'
+url:              http://treachery.eu
+baseurl:          /
+
+author:
+  name:           'Erik Gärtner & Frans Witting'
+  url:            http://treachery.eu
+
+github:
+  repo:           https://github.com/TreacheryLarp/landing
