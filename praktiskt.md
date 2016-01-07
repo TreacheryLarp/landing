@@ -11,7 +11,7 @@ OBS! att Treachery har obligatorisk downtime som bör ta ca 30 minuter per lajv.
 Kostnaden är 125 kr per lajv eller 400 kr för alla fyra lajven i säsongen.
 
 ## Facebook events
-- [Förmöte](https://www.facebook.com/events/905032526241473/)
+- [Obligatoriskt Förmöte](https://www.facebook.com/events/905032526241473/)
 - [Session 1](https://www.facebook.com/events/1545975615716759/)
 - [Session 2](https://www.facebook.com/events/1677201725899868/)
 - [Session 3](https://www.facebook.com/events/480054875510192/)
