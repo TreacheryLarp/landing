@@ -127,7 +127,6 @@ Som äldstespelare förväntas du vara någorlunda väl införståd med
 reglerna och kunna svara på grundläggande frågor.
 
 - Sätt personliga mål genomför dem skrupelfritt
-
 - Använd din makt för personlig vinning
 - Ta alltid emot prestigemutor
 - Frukta paniskt de yngre besläktade
