@@ -81,7 +81,7 @@ och börjar bli luttrade av det nattliga livet. De är även så gamla att
 deras sista kontakter från deras mänskliga tid har försvunnit och de
 måste kämpa för att behålla greppet.
 
-Som neonat kommer du inte ha en fullt så aktiv roll i att göra saker i
+Som ancilla kommer du inte ha en fullt så aktiv roll i att göra saker i
 fältet utan fungera som en medlare mellan neonater och de äldste. Du har
 möjligheter att skaffa dig titlar och betydande inflytande på lajvet men
 att kämpa mot de äldste är ett farligt och dödligt spel. Ditt ansvar för
