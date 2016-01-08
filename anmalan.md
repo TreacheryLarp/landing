@@ -2,7 +2,7 @@
 layout: page
 title: Anmälan
 ---
-Anmälan för säsong 1 sker via mail till [anmalan@treachery.eu](mailto:anmalan@treachery.eu). **Deadline** för anmälan är den 25 januari. Betalning sker i samband med förmötet den 31e Januari.
+Anmälan för säsong 1 sker via mail till [treachery.anmalan@gmail.com](mailto:treachery.anmalan@gmail.com). **Deadline** för anmälan är den 25 januari. Betalning sker i samband med förmötet den 31e Januari.
 
 Mer information finns i följande [PDF](https://www.dropbox.com/s/c9gkisd2hlstzu7/Anm%C3%A4lan.pdf?dl=1).
 

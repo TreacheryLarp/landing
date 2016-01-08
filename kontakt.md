@@ -11,5 +11,5 @@ Treachery arrangeras av:
 ### Forum
 
 - [Facebook grupp](https://www.facebook.com/groups/1038275236201941/)
-- Spelfrågor: [gm@treachery.eu](mailto:gm@treachery.eu)
-- Hemsida: [webmaster@treachery.eu](mailto:webmaster@treachery.eu)
+- Spelfrågor: [treachery.anmalan@gmail.com](mailto:treachery.anmalan@gmail.com)
+- Hemsida/app: [webmaster@treachery.eu](mailto:webmaster@treachery.eu)
