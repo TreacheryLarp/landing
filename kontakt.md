@@ -12,4 +12,4 @@ Treachery arrangeras av:
 
 - [Facebook grupp](https://www.facebook.com/groups/1038275236201941/)
 - Spelfrågor: [treachery.anmalan@gmail.com](mailto:treachery.anmalan@gmail.com)
-- Hemsida/app: [webmaster@treachery.eu](mailto:webmaster@treachery.eu)
+- Hemsida/app: [treachery.webmaster@gartner.io](mailto:treachery.webmaster@gartner.io)
