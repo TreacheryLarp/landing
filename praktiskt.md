@@ -8,7 +8,7 @@ Alla lajv kommer hållas på IOGT-NTOs lokal på Bangatan 5 i Lund och vara mell
 
 OBS! att Treachery har obligatorisk downtime som bör ta ca 30 minuter per lajv. Om du inte är betald och har gjort downtime så får du inte lajva!
 
-Kostnaden är 125 kr per lajv eller 400 kr för alla fyra lajven i säsongen.
+Kostnaden är 150 kr per lajv eller 400 kr för alla fyra lajven i säsongen.
 
 ## Facebook events
 - [Obligatoriskt Förmöte](https://www.facebook.com/events/905032526241473/)
