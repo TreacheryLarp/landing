@@ -2,7 +2,7 @@
 layout: page
 title: Anmälan
 ---
-Anmälan för säsong 1 sker via mail till [treachery.anmalan@gmail.com](mailto:treachery.anmalan@gmail.com). **Deadline** för anmälan är den 25 januari. Betalning sker i samband med förmötet den 31e Januari. 
+Anmälan för säsong 1 sker via mail till [treachery.anmalan@gmail.com](mailto:treachery.anmalan@gmail.com). **Deadline** för anmälan är den 25 januari. Betalning sker i samband med förmötet den 31e Januari.
 
 Det finns ett begränsat antal platser. Efter anmälan är stängd kommer spelledningen skicka ut besked gällande vilken ålder du tilldelats. Kvotering kan förekomma.
 
@@ -59,7 +59,7 @@ dig fördelar. Du får också på gott och ont ett mindre ansvar för att
 sköta andras spel och att bygga setting.
 
 - Sätt konkreta, aktiva mål och jaga dem aggressivt
-- Gå med i ett kotteri, det ger saker att göra och politisk makt\
+- Gå med i ett kotteri, det ger saker att göra och politisk makt
 - Du är ung så du kan ta risker och känner den mänskliga världen, använd
 det
 - Ta alltid betalt för dina tjänster
