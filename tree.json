@@ -146,11 +146,12 @@
     "class": "ancilla",
     "extra": {
       "player": "Tindra ENglund (Hon)"
-    }
-  }, {
-    "name": "Philippe Gagnon (Han)",
-    "extra": {
-      "player": "Mikko Z Jokela (Han)"
-    }
+    },
+    "children": [{
+      "name": "Philippe Gagnon (Han)",
+      "extra": {
+        "player": "Mikko Z Jokela (Han)"
+      }
+    }]
   }]
 }]
