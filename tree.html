@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style type="text/css">
+
+	body {
+	    font: 10px sans-serif;
+	}
+	.linage {
+	    fill: none;
+	    stroke: #000;
+	}
+	.marriage {
+	    fill: none;
+	    stroke: black;
+	}
+	.node {
+	    background-color: lightblue;
+			border-style: solid;
+			border-width: 1px;
+	}
+	p {
+		padding:0;
+		margin:0;
+	}
+
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://cdn.rawgit.com/ErikGartner/dTree/0.8.1/dist/dTree.min.js"></script>
+<body>
+    <div id="graph"></div>
+
+		<script>
+      treeJson = d3.json("data.json", function(error, treeData) {
+      	dTree.init(treeData, {
+																target: "#graph",
+																debug: true,
+																height: window.innerHeight,
+    width: window.innerWidth,
+																callbacks: {
+																}
+															});
+    	});
+    </script>
+</body>
+</html>

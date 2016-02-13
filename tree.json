@@ -1,0 +1,143 @@
+[{
+  "name": "Marcus Faire (Han)",
+  "children": [{
+    "name": "Alice Norton",
+    "extra": {
+      "player": "Anna Hansson"
+    },
+    "children": [{
+      "name": "Sheridan (han/hen/hon)",
+      "extra": {
+        "player": "Hanna Autio (Hon)"
+      }
+    }]
+  }, {
+    "name": "Alexis Keegan (Han)",
+    "extra": {
+      "player": "Hampus (Han)"
+    },
+    "children": [{
+      "name": "Blair Meester (Hon)",
+      "extra": {
+        "player": "Johanna Nordvall (Hon)"
+      }
+    }]
+  }],
+  "extra": {
+    "clan": "Tremere",
+    "player": "Erik Gärtner (Han)"
+  }
+}, {
+  "name": "Cora Wyght (hon)",
+  "children": [{
+    "name": "Douglas Fischer (han)",
+    "extra": {
+      "player": "Ola Johnsson (han)"
+    },
+    "children": [{
+      "name": "Charlie A.k.a  Charlie i parken (han)",
+      "extra": {
+        "player": "Nicklas Bengtsson"
+      }
+    }]
+  }, {
+    "name": "Simon Aratyan (han)",
+    "extra": {
+      "player": "Johan Nikula (han)"
+    }
+  }],
+  "extra": {
+    "clan": "Gangrel",
+    "player": "Sara Zackrisson Andersson (hon)"
+  }
+}, {
+  "name": "Lukretia von Teschen (Hon)",
+  "extra": {
+    "clan": "Brujah",
+    "player": "Felicia Svilling (Hon)"
+  },
+  "children": [{
+    "name": "Simon Crowe (Han)",
+    "extra": {
+      "player": "Jonas Alsfjärd (Han)"
+    },
+    "children": [{
+      "name": "Allison Bellerose (Hon)",
+      "extra": {
+        "player": "Johanna Taller (Hon)"
+      }
+    }, {
+      "name": "John West (Han)",
+      "extra": {
+        "player": "Erik Johansson (Han)"
+      }
+    }]
+  }, {
+    "name": "Robert Lowell (Han)",
+    "extra": {
+      "player": "Johannes Jörgensen (Han)"
+    }
+  }]
+}, {
+  "name": "Antonius (Han/Den/Det)",
+  "extra": {
+    "clan": "Malkav",
+    "player": "Johan Larsson (Han)"
+  },
+  "children": [{
+    "name": "Raymond Jones (Han)",
+    "extra": {
+      "player": "Filip Danielsson (Han)"
+    }
+  }, {
+    "name": "Clara Gilliam (Hon)",
+    "extra": {
+      "player": "Ellen Måsbäck (Hon)"
+    }
+  }, {
+    "name": "Agethe Anterburry",
+    "extra": {
+      "player": "Janni"
+    }
+  }]
+}, {
+  "name": "Antares (hen)",
+  "extra": {
+    "clan": "Nosferatu",
+    "player": "Tim Olsson (hen)"
+  },
+  "children": [{
+    "name": "Kurt",
+    "extra": {
+      "player": "Thom Kiraly"
+    }
+  }, {
+    "name": "Ingrid",
+    "extra": {
+      "player": "Nina Olsson (Hon)"
+    }
+  }, {
+    "name": "Carl Gately (Han)",
+    "extra": {
+      "player": "Henrik Karlsson (Han)"
+    }
+  }]
+}, {
+  "name": "Nicolaas de Graaf",
+  "depthOffset": 1,
+  "extra": {
+    "clan": "Ventrue",
+    "player": "Fredrik Palmqvist"
+  },
+  "children": [{
+    "name": "Adele de Graaf (Hon)",
+    "extra": {
+      "player": "Tindra ENglund (Hon)"
+    }
+  }, {
+    "name": "Philippe Gagnon (Han)",
+    "extra": {
+      "player": "Mikko Z Jokela (Han)"
+    }
+  }]
+}]
