@@ -1,7 +1,9 @@
 [{
   "name": "Marcus Faire (Han)",
+  "class": "elder",
   "children": [{
     "name": "Alice Norton",
+    "class": "ancilla",
     "extra": {
       "player": "Anna Hansson"
     },
@@ -25,12 +27,15 @@
   }],
   "extra": {
     "clan": "Tremere",
+    "class": "elder",
     "player": "Erik Gärtner (Han)"
   }
 }, {
   "name": "Cora Wyght (hon)",
+  "class": "elder",
   "children": [{
     "name": "Douglas Fischer (han)",
+    "class": "ancilla",
     "extra": {
       "player": "Ola Johnsson (han)"
     },
@@ -42,6 +47,7 @@
     }]
   }, {
     "name": "Simon Aratyan (han)",
+    "class": "ancilla",
     "extra": {
       "player": "Johan Nikula (han)"
     }
@@ -52,6 +58,7 @@
   }
 }, {
   "name": "Lukretia von Teschen (Hon)",
+  "class": "elder",
   "extra": {
     "clan": "Brujah",
     "player": "Felicia Svilling (Hon)"
@@ -80,6 +87,7 @@
   }]
 }, {
   "name": "Antonius (Han/Den/Det)",
+  "class": "elder",
   "extra": {
     "clan": "Malkav",
     "player": "Johan Larsson (Han)"
@@ -102,17 +110,20 @@
   }]
 }, {
   "name": "Antares (hen)",
+  "class": "elder",
   "extra": {
     "clan": "Nosferatu",
     "player": "Tim Olsson (hen)"
   },
   "children": [{
     "name": "Kurt",
+    "class": "ancilla",
     "extra": {
       "player": "Thom Kiraly"
     }
   }, {
     "name": "Ingrid",
+    "class": "ancilla",
     "extra": {
       "player": "Nina Olsson (Hon)"
     }
@@ -124,6 +135,7 @@
   }]
 }, {
   "name": "Nicolaas de Graaf",
+  "class": "ancilla",
   "depthOffset": 1,
   "extra": {
     "clan": "Ventrue",
@@ -131,6 +143,7 @@
   },
   "children": [{
     "name": "Adele de Graaf (Hon)",
+    "class": "ancilla",
     "extra": {
       "player": "Tindra ENglund (Hon)"
     }
